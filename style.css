@@ -83,7 +83,7 @@ li {
     margin-top: 0;
     margin-bottom: 0;
     flex: 60%;
-    /* teste */
+    
 }
 
 .columnMiniRight {
@@ -92,3 +92,5 @@ li {
     flex: 40%;
     text-align: right;
 }
+
+/* teste git*/
